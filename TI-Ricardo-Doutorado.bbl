@@ -1,0 +1,330 @@
+\begin{thebibliography}{\hspace{\parindent}}
+
+\bibitem[ABIE; BALASINGHAM(2012)ABIE; BALASINGHAM]{habtamu12} ABIE, H.;
+  BALASINGHAM, I\@. Risk-based Adaptive Security for Smart IoT in eHealth. In:
+  INTERNATIONAL CONFERENCE ON BODY AREA NETWORKS, 7., 2012, ICST, Brussels,
+  Belgium, Belgium. \textbf{Proceedings{\ldots}} ICST (Institute for Computer
+  Sciences: Social-Informatics and Telecommunications Engineering), 2012.
+  p.269--275. (BodyNets '12).
+
+\bibitem[ABIE et~al.(2010)ABIE; BIGHAM; ROTONDI; SAVOLA; DATTANI;
+  BORMIDA]{abie10} ABIE, H. et~al\@. Self-Healing and Secure Adaptive Messaging
+  Middleware for Business Critical Systems. \textbf{International Journal on
+  Advances in Security}, [S.l.], v.3, 2010.
+
+\bibitem[ALABA et~al.(2017)ALABA; OTHMAN; HASHEM; ALOTAIBI]{alaba17} ALABA,
+  F.~A.; OTHMAN, M.; HASHEM, I. A.~T.; ALOTAIBI, F\@. Internet of Things
+  security: A survey. \textbf{Journal of Network and Computer Applications},
+  [S.l.], v.88, p.10 -- 28, 2017.
+
+\bibitem[ALIENVAULT(2018)ALIENVAULT]{ossim18} ALIENVAULT. OSSIM: The Open
+  Source SIEM | AlienVault. Dispon{\'\i}vel em:
+  \url{<https://www.alienvault.com/products/ossim>}, acesso em: 11 feb 2018.
+
+\bibitem[AMAN(2016)AMAN]{aman16} AMAN, W\@. \textbf{Adaptive Security in the
+  Internet of Things}. 2016. Tese (Doutorado em Ci{\^e}ncia da
+  Computa{\c{c}}{\~a}o) --- Norwegian University of Science and Technology,
+  Trondheim, Norway.
+
+\bibitem[AMAN; SNEKKENES(2014)AMAN; SNEKKENES]{aman14} AMAN, W.; SNEKKENES,
+  E\@. Event driven adaptive security in internet of things. \textbf{UBICOMM
+  2014 - 8th International Conference on Mobile Ubiquitous Computing, Systems,
+  Services and Technologies}, [S.l.], p.7--15, 2014. cited By 6.
+
+\bibitem[AMAN; SNEKKENES(2015)AMAN; SNEKKENES]{aman15} AMAN, W.; SNEKKENES,
+  E\@. EDAS: An Evaluation Prototype for Autonomic Event-Driven Adaptive
+  Security in the Internet of Things. \textbf{Future Internet}, [S.l.], v.7,
+  n.3, p.225--256, 2015.
+
+\bibitem[ASHTON(2009)ASHTON]{ashton09} ASHTON, K\@. {That 'Internet of Things'
+  Thing}. \textbf{RFID Journal}, [S.l.], June~2009.
+
+\bibitem[BELLAVISTA et~al.(2012)BELLAVISTA; CORRADI; FANELLI;
+  FOSCHINI]{bellavista12} BELLAVISTA, P.; CORRADI, A.; FANELLI, M.; FOSCHINI,
+  L\@. A survey of context data distribution for mobile ubiquitous systems.
+  \textbf{ACM Comput. Surv.}, New York, NY, USA, v.44, n.4, p.24:1--24:45,
+  Sept.~2012.
+
+\bibitem[BERNABE et~al.(2014)BERNABE; HERN{\'A}NDEZ; MORENO; GOMEZ]{bernabe14}
+  BERNABE, J.~B.; HERN{\'A}NDEZ, J.~L.; MORENO, M.~V.; GOMEZ, A. F.~S\@.
+  Privacy-Preserving Security Framework for a Social-Aware Internet of Things.
+  In: UBIQUITOUS COMPUTING AND AMBIENT INTELLIGENCE. PERSONALISATION AND USER
+  ADAPTED SERVICES, 2014, Cham. \textbf{Anais{\ldots}} Springer International
+  Publishing, 2014. p.408--415.
+
+\bibitem[BR{\'E}ZILLON(1999)BR{\'E}ZILLON]{brezillon99} BR{\'E}ZILLON, P\@.
+  Context in problem solving: a survey. \textbf{Knowl. Eng. Rev.}, New York,
+  NY, USA, v.14, n.1, p.47--80, May~1999.
+
+\bibitem[BR{\'E}ZILLON; ARAUJO(2005)BR{\'E}ZILLON; ARAUJO]{brezillon05}
+  BR{\'E}ZILLON, P.; ARAUJO, R.~M\@. Reinforcing Shared Context to Improve
+  Collaboration. \textbf{Revue d Intelligence Artificielle}, [S.l.], v.19, n.3,
+  p.537--556, 2005.
+
+\bibitem[BRUN et~al.(2009)BRUN; MARZO~SERUGENDO; GACEK; GIESE; KIENLE; LITOIU;
+  M\"{u}LLER; PEZZ\`{e}; SHAW]{brun09} BRUN, Y. et~al\@. Software Engineering
+  for Self-Adaptive Systems. In: CHENG, B.~H. et~al\@.~(Ed.). \textbf{Software
+  Engineering for Self-Adaptive Systems}. Berlin, Heidelberg: Springer-Verlag,
+  2009. p.48--70.
+
+\bibitem[DEY(2001)DEY]{dey01} DEY, A.~K\@. Understanding and Using Context.
+  \textbf{Personal and Ubiquitous Computing}, [S.l.], v.5, p.4--7, 2001.
+
+\bibitem[DOBSON et~al.(2006)DOBSON; DENAZIS; FERN\'{a}NDEZ; GA\"{I}TI; GELENBE;
+  MASSACCI; NIXON; SAFFRE; SCHMIDT; ZAMBONELLI]{dobson06} DOBSON, S. et~al\@. A
+  Survey of Autonomic Communications. \textbf{ACM Trans. Auton. Adapt. Syst.},
+  New York, NY, USA, v.1, n.2, p.223--259, Dec.~2006.
+
+\bibitem[EL~MALIKI(2014)EL~MALIKI]{elmaliki14} EL~MALIKI, T\@. \textbf{Security
+  adaptation in highly dynamic wireless networks}. 2014. Tese (Doutorado em
+  Ci{\^e}ncia da Computa{\c{c}}{\~a}o) --- Université de Genève.
+
+\bibitem[EL-MALIKI; SEIGNE(2016)EL-MALIKI; SEIGNE]{elmaliki16} EL-MALIKI, T.;
+  SEIGNE, J.~M\@. Efficient Security Adaptation Framework for Internet of
+  Things. In: INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE AND
+  COMPUTATIONAL INTELLIGENCE (CSCI), 2016., 2016. \textbf{Anais{\ldots}}
+  [S.l.:~s.n.], 2016. p.206--211.
+
+\bibitem[ELKHODARY; WHITTLE(2007)ELKHODARY; WHITTLE]{elkhodary07} ELKHODARY,
+  A.; WHITTLE, J\@. A Survey of Approaches to Adaptive Application Security.
+  In: INTERNATIONAL WORKSHOP ON SOFTWARE ENGINEERING FOR ADAPTIVE AND
+  SELF-MANAGING SYSTEMS, 2007., 2007, Washington, DC, USA.
+  \textbf{Proceedings{\ldots}} IEEE Computer Society, 2007. p.16--. (SEAMS
+  '07).
+
+\bibitem[EVESTI; OVASKA(2013)EVESTI; OVASKA]{evesti13b} EVESTI, A.; OVASKA,
+  E\@. Comparison of adaptive information security approaches. \textbf{ISRN
+  Artificial Intelligence}, [S.l.], v.2013, 2013.
+
+\bibitem[EVESTI et~al.(2011)EVESTI; SAVOLA; OVASKA; KUUSIJ{\"A}RVI]{evesti11}
+  EVESTI, A.; SAVOLA, R.; OVASKA, E.; KUUSIJ{\"A}RVI, J\@. The design,
+  instantiation, and usage of information security measuring ontology. In: IN
+  MOPAS 2011, THE SECOND INTERNATIONAL CONFERENCE ON MODELS AND ONTOLOGY-BASED
+  DESIGN OF PROTOCOLS, ARCHITECTURES AND SERVICES, 2011. \textbf{Anais{\ldots}}
+  [S.l.:~s.n.], 2011. p.1--9.
+
+\bibitem[EVESTI; SUOMALAINEN; OVASKA(2013)EVESTI; SUOMALAINEN;
+  OVASKA]{evesti13c} EVESTI, A.; SUOMALAINEN, J.; OVASKA, E\@. Architecture and
+  Knowledge-Driven Self-Adaptive Security in Smart Space. \textbf{Computers},
+  [S.l.], v.2, n.1, p.34--66, 2013.
+
+\bibitem[EVESTI; TUTKIMUSKESKUS(2013)EVESTI; TUTKIMUSKESKUS]{evesti13a} EVESTI,
+  A.; TUTKIMUSKESKUS, V.~teknillinen. \textbf{Adaptive Security in Smart
+  Spaces}. [S.l.]: VTT, 2013. (VTT science).
+
+\bibitem[GANEK; CORBI(2003)GANEK; CORBI]{ganek03} GANEK, A.~G.; CORBI, T.~A\@.
+  The dawning of the autonomic computing era. \textbf{IBM Systems Journal},
+  [S.l.], v.42, n.1, p.5--18, 2003.
+
+\bibitem[GHORBANI; LU; TAVALLAEE(2010)GHORBANI; LU; TAVALLAEE]{ghorbani10}
+  GHORBANI, A.; LU, W.; TAVALLAEE, M\@. \textbf{Network Intrusion Detection and
+  Prevention}: Concepts and Techniques. [S.l.]: Springer, 2010. (Advances in
+  Information Security).
+
+\bibitem[GIUSTO et~al.(2010)GIUSTO; IERA; MORABITO; ATZORI]{giusto10} GIUSTO,
+  D.; IERA, A.; MORABITO, G.; ATZORI, L\@. \textbf{The Internet of Things}:
+  20th Tyrrhenian Workshop on Digital Communications. [S.l.]: Springer New
+  York, 2010.
+
+\bibitem[HEIMERL(2012)HEIMERL]{heimerl12} HEIMERL, J.-L\@. Effective Security
+  Requires Context. Dispon{\'\i}vel em:
+  \url{<http://www.securityweek.com/effective-security-requires-context>},
+  acesso em: 29 jan 2018.
+
+\bibitem[HP(2015)HP]{hpiot15} HP. Dispon\'{i}vel em:
+  \url{<http://files.asset.microfocus.com/4aa5-4759/en/4aa5-4759.pdf>}, Hewlett
+  Packard Enterprise - Internet of things research study. Acesso em janeiro de
+  2018.
+
+\bibitem[HU et~al.(2014)HU; GAO; WANG; WU; MAYBANK]{hu14} HU, W. et~al\@.
+  Online Adaboost-Based Parameterized Methods for Dynamic Distributed Network
+  Intrusion Detection. \textbf{Cybernetics, IEEE Transactions on}, [S.l.],
+  v.44, n.1, p.66--82, Jan~2014.
+
+\bibitem[IGLESIA; WEYNS(2015)IGLESIA; WEYNS]{iglesia15} IGLESIA, D. G. D.~L.;
+  WEYNS, D\@. MAPE-K Formal Templates to Rigorously Design Behaviors for
+  Self-Adaptive Systems. \textbf{ACM Trans. Auton. Adapt. Syst.}, New York, NY,
+  USA, v.10, n.3, p.15:1--15:31, Sept.~2015.
+
+\bibitem[KEPHART; CHESS(2003)KEPHART; CHESS]{kephart03} KEPHART, J.~O.; CHESS,
+  D.~M\@. The Vision of Autonomic Computing. \textbf{Computer}, Los Alamitos,
+  CA, USA, v.36, n.1, p.41--50, Jan.~2003.
+
+\bibitem[KLIARSKY; LEUNE(2017)KLIARSKY; LEUNE]{sans17} KLIARSKY, A.; LEUNE,
+  K\@. Detecting Attacks Against The Internet of Things. \textbf{SANS
+  Institute. InfoSec Reading Room}, [S.l.], 2017.
+
+\bibitem[LAMPRECHT(2012)LAMPRECHT]{lamprecht12} LAMPRECHT, C.~J\@.
+  \textbf{Adaptive Security}. 2012. Tese (Doutorado em Ci{\^e}ncia da
+  Computa{\c{c}}{\~a}o) --- Newcastle University. School of Computing Science.
+
+\bibitem[LANGHEINRICH(2010)LANGHEINRICH]{langheinrich10} LANGHEINRICH, M\@.
+  \textbf{{Privacy in Ubiquitous Computing}}. [S.l.]: J. Krumm, ed., CRC Press,
+  2010. 95-160p.
+
+\bibitem[LI et~al.(2015)LI; ECKERT; MARTINEZ; RUBIO]{li15} LI, X.; ECKERT, M.;
+  MARTINEZ, J.-F.; RUBIO, G\@. Context Aware Middleware Architectures: Survey
+  and Challenges. \textbf{Sensors}, [S.l.], v.15, n.8, p.20570, 2015.
+
+\bibitem[LIU; LIJUAN(2008)LIU; LIJUAN]{liu08} LIU, J.; LIJUAN, L\@. A
+  Distributed Intrusion Detection System Based on Agents. In: COMPUTATIONAL
+  INTELLIGENCE AND INDUSTRIAL APPLICATION, 2008. PACIIA '08. PACIFIC-ASIA
+  WORKSHOP ON, 2008. \textbf{Anais{\ldots}} [S.l.:~s.n.], 2008. v.1,
+  p.553--557.
+
+\bibitem[MEULEN(2017)MEULEN]{gartneradaptsec17} MEULEN, R.~van~der.
+  Dispon\'{i}vel em:
+  \url{<https://www.gartner.com/smarterwithgartner/build-adaptive-security-architecture-into-your-organization/>},
+  Gartner - Build Adaptive Security Architecture Into Your Organization. Acesso
+  em janeiro de 2018.
+
+\bibitem[MIORANDI et~al.(2012)MIORANDI; SICARI; PELLEGRINI;
+  CHLAMTAC]{miorandi12} MIORANDI, D.; SICARI, S.; PELLEGRINI, F.~D.; CHLAMTAC,
+  I\@. Internet of things: Vision, applications and research challenges.
+  \textbf{Ad Hoc Networks}, [S.l.], v.10, n.7, p.1497 -- 1516, 2012.
+
+\bibitem[MOZZAQUATRO; JARDIM-GONCALVES; AGOSTINHO(2015)MOZZAQUATRO;
+  JARDIM-GONCALVES; AGOSTINHO]{mozzaquatro15} MOZZAQUATRO, B.~A.;
+  JARDIM-GONCALVES, R.; AGOSTINHO, C\@. Towards a reference ontology for
+  security in the Internet of Things. In: IEEE INTERNATIONAL WORKSHOP ON
+  MEASUREMENTS NETWORKING (M N), 2015., 2015. \textbf{Anais{\ldots}}
+  [S.l.:~s.n.], 2015. p.1--6.
+
+\bibitem[MOZZAQUATRO et~al.(2016)MOZZAQUATRO; MELO; AGOSTINHO;
+  JARDIM-GONCALVES]{mozzaquatro16} MOZZAQUATRO, B.~A.; MELO, R.; AGOSTINHO, C.;
+  JARDIM-GONCALVES, R\@. An ontology-based security framework for
+  decision-making in industrial systems. In: INTERNATIONAL CONFERENCE ON
+  MODEL-DRIVEN ENGINEERING AND SOFTWARE DEVELOPMENT (MODELSWARD), 2016., 2016.
+  \textbf{Anais{\ldots}} [S.l.:~s.n.], 2016. p.779--788.
+
+\bibitem[OCG(2018)OCG]{ocg18} OCG. Open Geospatial Consortium. Sensor Model
+  Language (SensorML). Dispon{\'\i}vel em:
+  \url{<http://www.opengeospatial.org/standards/sensorml>}, acesso em: 12 feb
+  2018.
+
+\bibitem[O.M.A.(2012)O.M.A.]{oma12} O.M.A\@. \textbf{NGSI Context Management}.
+  [S.l.]: Open Mobile Alliance, 2012.
+
+\bibitem[ONWUBIKO(2012)ONWUBIKO]{onwubiko12} ONWUBIKO, C\@. \textbf{Situational
+  Awareness in Computer Network Defense}: Principles, Methods and Applications:
+  Principles, Methods and Applications. [S.l.]: Information Science Reference,
+  2012.
+
+\bibitem[OWASP(2018)OWASP]{owaspiot18} OWASP. Dispon\'{i}vel em:
+  \url{<https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project>},
+  OWASP Internet of Things Project. Acesso em janeiro de 2018.
+
+\bibitem[PANETTA(2017)PANETTA]{gartnerttrends17} PANETTA, K\@. Dispon\'{i}vel
+  em:
+  \url{<https://www.gartner.com/smarterwithgartner/gartners-top-10-technology-trends-2017/>},
+  Gartner - Top 10 Strategic Technology Trends for 2017. Acesso em janeiro de
+  2018.
+
+\bibitem[PANETTA(2018)PANETTA]{gartnerttrends18} PANETTA, K\@. Dispon\'{i}vel
+  em:
+  \url{<https://www.gartner.com/smarterwithgartner/gartner-top-10-strategic-technology-trends-for-2018/>},
+  Gartner - Top 10 Strategic Technology Trends for 2018. Acesso em janeiro de
+  2018.
+
+\bibitem[PERERA et~al.(2014)PERERA; ZASLAVSKY; CHRISTEN;
+  GEORGAKOPOULOS]{perera14} PERERA, C.; ZASLAVSKY, A.; CHRISTEN, P.;
+  GEORGAKOPOULOS, D\@. Context Aware Computing for The Internet of Things: A
+  Survey. \textbf{IEEE Communications Surveys Tutorials}, [S.l.], v.16, n.1,
+  p.414--454, First~2014.
+
+\bibitem[PETERSEN et~al.(2008)PETERSEN; FELDT; MUJTABA; MATTSSON]{petersen08}
+  PETERSEN, K.; FELDT, R.; MUJTABA, S.; MATTSSON, M\@. Systematic Mapping
+  Studies in Software Engineering. In: INTERNATIONAL CONFERENCE ON EVALUATION
+  AND ASSESSMENT IN SOFTWARE ENGINEERING, 12., 2008, Swindon, UK.
+  \textbf{Proceedings{\ldots}} BCS Learning \& Development Ltd., 2008.
+  p.68--77. (EASE'08).
+
+\bibitem[PETERSEN; VAKKALANKA; KUZNIARZ(2015)PETERSEN; VAKKALANKA;
+  KUZNIARZ]{petersen15} PETERSEN, K.; VAKKALANKA, S.; KUZNIARZ, L\@. Guidelines
+  for conducting systematic mapping studies in software engineering : An
+  update. \textbf{Information and Software Technology}, [S.l.], v.64, p.1--18,
+  2015.
+
+\bibitem[RAMOS; BERNABE; SKARMETA(2015)RAMOS; BERNABE; SKARMETA]{ramos15}
+  RAMOS, J. L.~H.; BERNABE, J.~B.; SKARMETA, A.~F\@. Managing Context
+  Information for Adaptive Security in IoT Environments. In: {AINA} WORKSHOPS,
+  2015. \textbf{Anais{\ldots}} {IEEE} Computer Society, 2015. p.676--681.
+
+\bibitem[ROCHFORD; KAVANAGH(2015)ROCHFORD; KAVANAGH]{gartner15} ROCHFORD, O.;
+  KAVANAGH, K.~M\@. \textbf{Magic Quadrant for Security Information and Event
+  Management}. [S.l.]: Gartner Group, 2015.
+
+\bibitem[ROMAN; ZHOU; LOPEZ(2013)ROMAN; ZHOU; LOPEZ]{roman13} ROMAN, R.; ZHOU,
+  J.; LOPEZ, J\@. On the features and challenges of security and privacy in
+  distributed internet of things. \textbf{Computer Networks}, [S.l.], v.57,
+  n.10, p.2266 -- 2279, 2013. Towards a Science of Cyber Security Security and
+  Identity Architecture for the Future Internet.
+
+\bibitem[SHANKAR(2014)SHANKAR]{infosecnirvana14} SHANKAR, V\@. Clash of the
+  titans - Arcsight vs QRadar. Dispon{\'\i}vel em:
+  \url{<http://infosecnirvana.com/clash-titans-arcsight-vs-qradar/>}, acesso
+  em: 04 fev 2018.
+
+\bibitem[SHNITKO(2004)SHNITKO]{shnitko04} SHNITKO, A\@. Practical and
+  theoretical issues on adaptive security. In: FCS'04 WORKSHOP ON FOUNDATIONS
+  OF COMPUTER SECURITY, WORKSHOP ON LOGICAL FOUNDATIONS OF AN ADAPTIVE SECURITY
+  INFRASTRUCTURE, 2004. \textbf{Proceedings{\ldots}} [S.l.:~s.n.], 2004.
+  p.267--282.
+
+\bibitem[SICARI et~al.(2015)SICARI; RIZZARDI; GRIECO; COEN-PORISINI]{sicari15}
+  SICARI, S.; RIZZARDI, A.; GRIECO, L.; COEN-PORISINI, A\@. Security, privacy
+  and trust in Internet of Things: The road ahead. \textbf{Computer Networks},
+  [S.l.], v.76, p.146 -- 164, 2015.
+
+\bibitem[SUNDMAEKER et~al.(2010)SUNDMAEKER; GUILLEMIN; FRIESS; WOELFFL{\'E};
+  INFORMATION~SOCIETY; MEDIA]{sundmaeker10} SUNDMAEKER, H. et~al\@.
+  \textbf{Vision and Challenges for Realising the Internet of Things}. [S.l.]:
+  Publications Office of the European Union, 2010.
+
+\bibitem[TORRES; WILLIAMS(2015)TORRES; WILLIAMS]{sansir15} TORRES, A.;
+  WILLIAMS, J\@. Maturing and Specializing: Incident Response Capabilities
+  Needed. \textbf{SANS Institute. SANS Analyst Program}, [S.l.], 2015.
+
+\bibitem[TWENEBOAH-KODUAH; SKOUBY; TADAYONI(2017)TWENEBOAH-KODUAH; SKOUBY;
+  TADAYONI]{tweneboah17} TWENEBOAH-KODUAH, S.; SKOUBY, K.~E.; TADAYONI, R\@.
+  Cyber Security Threats to IoT Applications and Service Domains.
+  \textbf{Wireless Personal Communications}, [S.l.], v.95, n.1, p.169--185,
+  Jul~2017.
+
+\bibitem[VIEIRA et~al.(2004)VIEIRA; MANGAN; WERNER; MATTOSO]{vieira04} VIEIRA,
+  V.; MANGAN, M.; WERNER, C.; MATTOSO, M\@. Ariane: An Awareness Mechanism for
+  Shared Databases. In: \textbf{Groupware}: Design, Implementation, and Use.
+  [S.l.]: Springer Berlin Heidelberg, 2004. p.92--104. (Lecture Notes in
+  Computer Science, v.3198).
+
+\bibitem[WEBER(2010)WEBER]{weber10} WEBER, R.~H\@. Internet of Things – New
+  security and privacy challenges. \textbf{Computer Law and Security Review},
+  [S.l.], v.26, n.1, p.23 -- 30, 2010.
+
+\bibitem[WEISER(1991)WEISER]{weiser91} WEISER, M\@. The Computer for the 21st
+  Century. \textbf{Scientific American}, [S.l.], v.265, n.3, p.66--75,
+  January~1991.
+
+\bibitem[WEYNS et~al.(2012)WEYNS; IFTIKHAR; MALEK; ANDERSSON]{weyns12} WEYNS,
+  D.; IFTIKHAR, M.~U.; MALEK, S.; ANDERSSON, J\@. Claims and Supporting
+  Evidence for Self-adaptive Systems: A Literature Study. In: INTERNATIONAL
+  SYMPOSIUM ON SOFTWARE ENGINEERING FOR ADAPTIVE AND SELF-MANAGING SYSTEMS, 7.,
+  2012, Piscataway, NJ, USA. \textbf{Proceedings{\ldots}} IEEE Press, 2012.
+  p.89--98. (SEAMS '12).
+
+\bibitem[YANG et~al.(2012)YANG; LI; GENG; ZHANG]{yang12} YANG, X.; LI, Z.;
+  GENG, Z.; ZHANG, H\@. A Multi-layer Security Model for Internet of Things.
+  In: INTERNET OF THINGS, 2012, Berlin, Heidelberg. \textbf{Anais{\ldots}}
+  Springer Berlin Heidelberg, 2012. p.388--393.
+
+\bibitem[YUAN; MALEK(2012)YUAN; MALEK]{yuan12} YUAN, E.; MALEK, S\@. A taxonomy
+  and survey of self-protecting software systems. In: INTERNATIONAL SYMPOSIUM
+  ON SOFTWARE ENGINEERING FOR ADAPTIVE AND SELF-MANAGING SYSTEMS (SEAMS),
+  2012., 2012. \textbf{Anais{\ldots}} [S.l.:~s.n.], 2012. p.109--118.
+
+\bibitem[ZHAO; GE(2013)ZHAO; GE]{zhao13} ZHAO, K.; GE, L\@. A Survey on the
+  Internet of Things Security. In: NINTH INTERNATIONAL CONFERENCE ON
+  COMPUTATIONAL INTELLIGENCE AND SECURITY, 2013., 2013. \textbf{Anais{\ldots}}
+  [S.l.:~s.n.], 2013. p.663--667.
+
+\end{thebibliography}

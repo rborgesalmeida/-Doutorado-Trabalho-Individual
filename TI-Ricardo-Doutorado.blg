@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: TI-Ricardo-Doutorado.aux
+The style file: abnt.bst
+Database file #1: bibliografia.bib
+You've used 64 entries,
+            2376 wiz_defined-function locations,
+            970 strings with 17593 characters,
+and the built_in function-call counts, 56630 in all, are:
+= -- 5102
+> -- 585
+< -- 1242
++ -- 3203
+- -- 293
+* -- 4030
+:= -- 5077
+add.period$ -- 251
+call.type$ -- 64
+change.case$ -- 785
+chr.to.int$ -- 370
+cite$ -- 64
+duplicate$ -- 6501
+empty$ -- 3235
+format.name$ -- 1011
+if$ -- 11111
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 131
+num.names$ -- 321
+pop$ -- 1458
+preamble$ -- 1
+purify$ -- 64
+quote$ -- 0
+skip$ -- 3082
+stack$ -- 0
+substring$ -- 2910
+swap$ -- 4862
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 386
+warning$ -- 0
+while$ -- 425
+width$ -- 0
+write$ -- 66

@@ -1,0 +1,25 @@
+\select@language {brazilian}
+\select@language {english}
+\select@language {brazilian}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{7}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motiva\IeC {\c c}\IeC {\~o}es}{9}{section.1.1}
+\contentsline {section}{\numberline {1.2}Objetivos}{11}{section.1.2}
+\contentsline {section}{\numberline {1.3}Estrutura do Texto}{11}{section.1.3}
+\contentsline {chapter}{\numberline {2}Seguran\IeC {\c c}a Adaptativa para a Internet das Coisas}{12}{chapter.2}
+\contentsline {section}{\numberline {2.1}Internet das Coisas}{12}{section.2.1}
+\contentsline {section}{\numberline {2.2}Seguran\IeC {\c c}a Adaptativa}{14}{section.2.2}
+\contentsline {section}{\numberline {2.3}Ci\IeC {\^e}ncia de Contexto na Seguran\IeC {\c c}a Adaptativa}{19}{section.2.3}
+\contentsline {section}{\numberline {2.4}Considera\IeC {\c c}\IeC {\~o}es sobre o Cap\IeC {\'\i }tulo}{21}{section.2.4}
+\contentsline {chapter}{\numberline {3}Estado da Arte}{22}{chapter.3}
+\contentsline {section}{\numberline {3.1}Mapeamento Sistem\IeC {\'a}tico da Literatura}{22}{section.3.1}
+\contentsline {section}{\numberline {3.2}Trabalhos Relacionados}{26}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Risk-based Adaptive Security for Smart IoT in eHealth}{27}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Architecture and Knowledge-Driven Self-Adaptive Security in Smart Space}{30}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Event driven adaptive security in internet of things}{33}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Managing Context Information for Adaptive Security in IoT environments}{38}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}An Ontology-based Security framework for Decision-making in Industrial Systems}{42}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Efficient Security Adaptation framework for Internet of Things}{44}{subsection.3.2.6}
+\contentsline {section}{\numberline {3.3}Discuss\IeC {\~a}o dos Trabalhos Relacionados}{47}{section.3.3}
+\contentsline {section}{\numberline {3.4}Considera\IeC {\c c}\IeC {\~o}es do Cap\IeC {\'\i }tulo}{50}{section.3.4}
+\contentsline {chapter}{\numberline {4}Considera\IeC {\c c}\IeC {\~o}es Finais}{51}{chapter.4}
+\contentsline {chapter}{Refer{\^e}ncias}{53}{chapter.4}
